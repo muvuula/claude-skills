@@ -1,10 +1,10 @@
 ---
-name: uninstall-marvis
-description: 一键干净卸载指定应用，自动查杀进程/服务/目录/快捷方式/AppData残留
+name: cleanse
+description: 一键彻底卸载指定应用，自动查杀进程/服务/目录/快捷方式/AppData残留
 args: 应用名（如 Marvis、WeChat、TencentMeeting）
 ---
 
-# 通用应用卸载
+# Cleanse
 
 ## 注入参数
 应用名：`{{args}}`
